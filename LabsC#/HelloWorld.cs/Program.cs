@@ -1,12 +1,2 @@
-﻿using System;
-
-namespace HelloWorld
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World, mundo especial!");
-        }
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
