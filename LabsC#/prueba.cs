@@ -8,4 +8,4 @@ class Program {
         Console.WriteLine("Valor de mi constante: " + myConstant);
     }
 }
- // Situacion similar a C++
+ // Situacion similar a C++ 
