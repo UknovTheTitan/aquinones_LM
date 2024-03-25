@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "actividad2",
+      "request": "launch",
+      "mainClass": "LabsJava.actividad2",
+      "projectName": "COMP2315_LM_37825ad9"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
