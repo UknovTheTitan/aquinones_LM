@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "actividad3",
+      "request": "launch",
+      "mainClass": "LabsJava.actividad3",
+      "projectName": "COMP2315_LM_37825ad9"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "COMP2315_LM_37825ad9"
+    },
+    {
+      "type": "java",
       "name": "actividad2",
       "request": "launch",
       "mainClass": "LabsJava.actividad2",

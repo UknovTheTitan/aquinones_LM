@@ -8,7 +8,7 @@ class Program
         double num1, num2, media;
 
         console.Write("Introduzca el primer valor");
-        num1 = Convert.ToDounle(Console.ReadLine());
+        num1 = Convert.ToDouble(Console.ReadLine());
 
         console.Write("Introduzca el segundo valor");
         num2 = Convert.ToDouble(console.ReadLine())
