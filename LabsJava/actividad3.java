@@ -3,8 +3,8 @@ package LabsJava;
 import java.util.Scanner;
 
 public class actividad3 {
-    @SuppressWarnings("resource")
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
 
         // Ingresar el 1(Si) o el 2(No) para indicar el estado de su tarjeta
