@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrintNombre",
+      "request": "launch",
+      "mainClass": "LabsJava.PrintNombre",
+      "projectName": "COMP2315_LM_37825ad9"
+    },
+    {
+      "type": "java",
       "name": "actividad3",
       "request": "launch",
       "mainClass": "LabsJava.actividad3",
