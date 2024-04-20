@@ -1,0 +1,15 @@
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\bin\Debug\net8.0\ProyectoC#.exe
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\bin\Debug\net8.0\ProyectoC#.deps.json
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\bin\Debug\net8.0\ProyectoC#.runtimeconfig.json
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\bin\Debug\net8.0\ProyectoC#.dll
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\bin\Debug\net8.0\ProyectoC#.pdb
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.AssemblyInfoInputs.cache
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.AssemblyInfo.cs
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.sourcelink.json
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.dll
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\refint\ProyectoC#.dll
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.pdb
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ProyectoC#.genruntimeconfig.cache
+C:\Users\antho\Desktop\COMP2315_LM\LabsC#\ProyectoC#\obj\Debug\net8.0\ref\ProyectoC#.dll

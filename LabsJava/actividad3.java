@@ -1,5 +1,4 @@
 package LabsJava;
-
 import java.util.Scanner;
 
 public class actividad3 {

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "temperaturaCiclo",
+      "request": "launch",
+      "mainClass": "LabsJava.temperaturaCiclo",
+      "projectName": "COMP2315_LM_37825ad9"
+    },
+    {
+      "type": "java",
       "name": "PrintNombre",
       "request": "launch",
       "mainClass": "LabsJava.PrintNombre",
